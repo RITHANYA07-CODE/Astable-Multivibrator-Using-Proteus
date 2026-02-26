@@ -14,7 +14,7 @@ To design and simulate an Astable Multivibrator using NE555 in Proteus Design Su
 •	Connecting wires  
 
 ## Circuit Diagram  
-<img width="1600" height="950" alt="image" src="https://github.com/user-attachments/assets/5fbfb4fb-a98d-43ac-bee1-4e3faee724dd" />
+<img width="1600" height="952" alt="image" src="https://github.com/user-attachments/assets/fe5354e3-32f5-4622-b43f-7a4018cbcf89" />
 
 Pin Configuration of 555 Timer:  
 •	Pin 1 → Ground  
@@ -57,7 +57,7 @@ Pin Configuration of 555 Timer:
 | 5    | 4.7     | 10      | 10     | 4.57                        | 4.40                      |
 
 ## Waveforms  
-<img width="1380" height="881" alt="image" src="https://github.com/user-attachments/assets/dbef7f20-9747-4d14-97c8-74555816ca12" />
+<img width="1067" height="881" alt="image" src="https://github.com/user-attachments/assets/5dac7bfe-e08c-48c0-a326-1459dc41f470" />
 
 •	Output (Pin 3) → Square wave  
 •	Capacitor voltage → Exponential charging & discharging waveform  
